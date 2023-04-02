@@ -8,7 +8,7 @@
 <tr><td><table><tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229330635-5489136b-0b87-4f04-a0ff-0d6ea50c2de9.png"/></td></tr>
 <tr><td> <em>Caption:</em> <p>this method calculates the cost of burger and returns the value as the<br>currency format with $ symbol by using :.2f format specifier<br></p>
 </td></tr>
-<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229233561-647d1ea9-f764-429d-8a11-5585c51b4157.png"/></td></tr>
+<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229330877-f22e4530-ce46-4b04-8b16-a5b2dafa20c2.png"/></td></tr>
 <tr><td> <em>Caption:</em> <p>In the output, we can see that input() prints the cost in currency<br>format with $ symbol<br></p>
 </td></tr>
 </table></td></tr>
@@ -17,22 +17,22 @@
 </table></td></tr>
 <table><tr><td> <em>Deliverable 2: </em> Exception Handling </td></tr><tr><td><em>Status: </em> <img width="100" height="20" src="https://user-images.githubusercontent.com/54863474/211707773-e6aef7cb-d5b2-4053-bbb1-b09fc609041e.png"></td></tr>
 <tr><td><table><tr><td> <em>Sub-Task 1: </em> Screenshot(s) of adjusted code to handle exceptions</td></tr>
-<tr><td><table><tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229215602-edc08112-ca4a-4b4a-9606-89ea22183eb1.png"/></td></tr>
+<tr><td><table><tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229328828-6741b3a9-d202-48a5-82ff-69a98a07a485.png"/></td></tr>
 <tr><td> <em>Caption:</em> <p>Adjusted code to handle out of stock exceptions with proper feedbacks at different<br>stages<br></p>
 </td></tr>
-<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229215832-2e78e839-b7ca-46f0-a226-b51204121f04.png"/></td></tr>
+<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229329111-5f7bbf29-de7c-4513-80b6-7e5f2507fe56.png"/></td></tr>
 <tr><td> <em>Caption:</em> <p>Adjusted code to handle NeedsCleaningException, this exception is raised if remaining_uses exceeds 15.It<br>prompts the user to type &#39;clean&#39;<br></p>
 </td></tr>
-<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229216037-2257702a-04ac-44b0-8af6-3d223a12dfb3.png"/></td></tr>
+<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229329200-86dcb526-1029-483c-be2f-88e0efe42af5.png"/></td></tr>
 <tr><td> <em>Caption:</em> <p>code is showing invalid option if other words are given as input instead<br>of &#39;clean&#39;<br></p>
 </td></tr>
-<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229216399-6c310773-a918-4701-9c90-adb01168dcf5.png"/></td></tr>
+<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229329351-4401be36-f0bc-45e7-836a-95a8c369d3ef.png"/></td></tr>
 <tr><td> <em>Caption:</em> <p>code is showing Invalid Choice Exceptions and proper feedback is given ensuring the<br>continuity in the program<br></p>
 </td></tr>
-<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229217126-23c591a1-194a-46ba-892f-8cb9c79b0305.png"/></td></tr>
+<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229329526-031d2d98-a455-4ec6-b501-5158d062c1f9.png"/></td></tr>
 <tr><td> <em>Caption:</em> <p>code is showing ExceededRemainingChoicesExceptions with proper feedbacks and the stage at which remaining<br>choices were exceeded with continuity in program flow<br></p>
 </td></tr>
-<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229217574-e6daf194-b10e-4497-94ec-7880e71cbc99.png"/></td></tr>
+<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229329678-26512b32-59e5-44f0-abdb-6cede382e882.png"/></td></tr>
 <tr><td> <em>Caption:</em> <p>code is showing InvalidPaymentException with proper userflow and feeedback<br></p>
 </td></tr>
 </table></td></tr>
