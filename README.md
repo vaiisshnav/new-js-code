@@ -44,23 +44,26 @@
 <tr><td><table><tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229336794-d63c1e42-bcbe-431d-8a0f-14eb8f6f6534.png"/></td></tr>
 <tr><td> <em>Caption:</em> <p>In the above image, bun was the first choice, so there was no<br>error. Therefore, test 1 is satisfied<br></p>
 </td></tr>
-<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229238330-5698cc42-5a51-4fa2-b296-f4376c3baa56.png"/></td></tr>
-<tr><td> <em>Caption:</em> <p>Here, bun was not the first choice, so an error was raised with<br>the exception invalid stage. Therefore, test 1 is satisfied<br></p>
+<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229337411-f0aa39da-2ade-40c1-918e-21984b36380d.png"/></td></tr>
+<tr><td> <em>Caption:</em> <p>if the patties are out of stock , exception is raised. So, test<br>2 is satisfied<br></p>
 </td></tr>
-<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229336906-b698c451-e603-4492-b859-f136a34b2a2d.png"/></td></tr>
+<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229337423-aa172b29-45d7-4151-bdda-24cd97333dda.png"/></td></tr>
+<tr><td> <em>Caption:</em> <p>if the toppings are out of stock , exception is raised. So, test<br>3 is satisfied<br></p>
+</td></tr>
+<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229337314-91705e3d-5e5a-4c1d-aa77-f38427d586aa.png"/></td></tr>
 <tr><td> <em>Caption:</em> <p>if the patties exceed more than 3 , exception is raised. So, test<br>4 is satisfied<br></p>
 </td></tr>
-<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229336937-056745c0-e0d6-4406-b83a-031bf6b91471.png"/></td></tr>
-<tr><td> <em>Caption:</em> <p>if the toppings are less than 3, code accepts. So, test 5 is<br>done<br></p>
+<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229337719-63578d8e-55a9-4496-8da4-99f3cfca503a.png"/></td></tr>
+<tr><td> <em>Caption:</em> <p>if the toppings are more than 3, code raises exception. So, test 5 is<br>done<br></p>
 </td></tr>
-<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229256116-2b44a4b5-3f6e-4059-8bb7-6f955a39427d.png"/></td></tr>
-<tr><td> <em>Caption:</em> <p>This is  test 2 and 3 showing out of stock exception as<br>the quantity is less than 0<br></p>
+<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229337775-a34bbb50-e9e9-44f0-aa46-dd4994ee28df.png"/></td></tr>
+<tr><td> <em>Caption:</em> <p>test 6 is done as this image shows three kinds of burger inputs and the calculation of the<br>cost<br></p>
 </td></tr>
-<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229255225-99bb1d55-bfab-41cb-99c2-57ba64be48d1.png"/></td></tr>
-<tr><td> <em>Caption:</em> <p>this image shows three kinds of burger inputs and the calculation of the<br>price<br></p>
+<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229337814-ac99ec20-5f67-4ed9-a325-729247ad36b0.png"/></td></tr>
+<tr><td> <em>Caption:</em> <p>this image shows the increase in total sale after every sale of burger.So,<br>test 7 is done<br></p>
 </td></tr>
-<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229256557-65669176-f7ee-4279-ab3a-d546c19160d3.png"/></td></tr>
-<tr><td> <em>Caption:</em> <p>this image shows the increase in total sale after every sale of burger.So,<br>test 8 is done<br></p>
+<tr><td><img width="768px" src="https://user-images.githubusercontent.com/63836995/229337897-6b384fa6-ae63-48c4-a7a8-4aeadc5e9daf.png"/></td></tr>
+<tr><td> <em>Caption:</em> <p>this image shows the increase in total burgers after every sale of burger.So,<br>test 8 is done<br></p>
 </td></tr>
 </table></td></tr>
 <tr><td> <em>Sub-Task 2: </em> Summarize each test case logic</td></tr>
